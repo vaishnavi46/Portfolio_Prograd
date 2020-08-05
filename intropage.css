@@ -1,0 +1,217 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color:black;
+    
+}
+.Mainheader
+{
+    background-color: white;
+}
+.heading
+{
+    font-size:30px;
+    text-align: left;
+    font-weight: bold;
+    margin-top:0px;
+    color:orangered;
+    margin-right: 50%;
+    
+}
+
+.subheading
+{
+    font-size:30px;
+    background-color:#36688D;
+    font-weight: bold;
+    margin-top:0px;
+    color:orangered;
+    text-align: center;
+}
+
+.align
+{
+    margin-top:-35px;
+    margin-bottom:25px;
+    text-align: end;
+    padding-top: 10px;
+    font-size: 1.5em;
+    color: orangered;
+}
+
+.visualize
+{
+    margin-right: 5%;
+
+}
+.slogan
+{
+    margin-left: 0px;
+    margin-top: 0px;
+    vertical-align: middle;
+    line-height: 120px;  
+    text-align: center;
+    font-size: 2em;
+    font-weight:200;
+    font-style: initial;
+}
+.slo
+{
+
+    margin-left: 0px;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 2em;
+    font-weight:bold;
+    font-style: italic;
+    font-family: monospace;
+    color: white;   
+}
+.container
+{
+    width:100%;
+    height:300px;
+    background-color:#040C0E;
+    text-align: center;
+}
+.container-1
+{
+    width:100%;
+    height:200px;
+    background-color:#D8D583;
+    text-align: center;
+}
+.paragraph
+{
+    background-color: #f56e50;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size:14px;
+    font-weight: 50;
+    text-align: justify;
+}
+.para
+{
+    background-color:#f56e50;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size:14px;
+    font-weight: 50;
+    align-content:left;
+    display: flex;
+}
+
+.button
+{
+    display: block;
+    margin-left: 10px;
+    width: 100%;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+.button:hover 
+{
+    background-color:green;
+    color: white;
+  }
+
+img
+{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    -moz-box-shadow: 0px 6px 5px #ccc;
+    -webkit-box-shadow: 0px 6px 5px #ccc;
+    box-shadow: 10px 6px 50px #ccc;
+    -moz-border-radius:190px;
+    -webkit-border-radius:190px;
+}
+.skills
+{
+    margin-top:0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 50%;
+    padding-top:0px;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown
+}
+
+.hobbies
+{
+    margin-top:-178px;
+    padding-top:0px;
+    margin-left: 50%;
+    margin-bottom: 0px;
+    margin-right: 0;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+
+li
+{
+    margin-top:0px;
+    padding-top:0px;
+    font-size: 2em;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 0px;
+}
+
+
+.personal
+{
+    background-color: #36688D;
+    font-weight: 60px;
+    margin-top:0px;
+    margin-bottom: 0px;
+    padding-top:0px;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 50px; 
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: justify;
+    font-size: 1.5em;
+    font-weight: 200;
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: greenyellow;
+    text-align: justify;
+    font-size: 3em;
+    font-weight: 200;
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+.shadow
+{
+    -moz-box-shadow: 0px 6px 5px #ccc;
+    -webkit-box-shadow: 0px 6px 5px #ccc;
+    box-shadow: 0px 6px 50px #ccc;
+}
