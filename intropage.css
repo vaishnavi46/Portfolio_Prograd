@@ -77,8 +77,8 @@
 .container-1
 {
     width:100%;
-    height:200px;
-    background-color:#D8D583;
+    height:400px;
+    background-color:#f56e50;
     text-align: center;
 }
 .paragraph
@@ -143,12 +143,12 @@ img
     font-weight: bold;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    color: brown
+    color: brown;
 }
 
-.hobbies
+.languages
 {
-    margin-top:-178px;
+    margin-top:-300px;
     padding-top:0px;
     margin-left: 50%;
     margin-bottom: 0px;
@@ -157,7 +157,7 @@ img
     font-weight: bold;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    color: brown;
+    color:brown;
 }
 
 
@@ -214,4 +214,166 @@ h1
     -moz-box-shadow: 0px 6px 5px #ccc;
     -webkit-box-shadow: 0px 6px 5px #ccc;
     box-shadow: 0px 6px 50px #ccc;
+}
+.github
+ {
+    background-color: lightgrey;
+    width: 150px;
+    height: 50%;
+    border: 10px solid lightgrey;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 10%;
+    margin-left: 100px;
+    -moz-box-shadow: 0px 6px 5px #ccc;
+    -webkit-box-shadow: 0px 6px 5px #ccc;
+    box-shadow: 0px 6px 50px #ccc;
+}
+
+.LinkedIn
+ {
+    background-color: lightgrey;
+    width: 150px;
+    height: 50%;
+    border: 10px solid lightgrey;
+    padding: 50px;
+    margin-right: 45%;
+    margin-top: -20%;
+    border-radius: 10%;
+    margin-left: 0px;
+    float: right;
+    
+    -moz-box-shadow: 0px 6px 5px #ccc;
+    -webkit-box-shadow: 0px 6px 5px #ccc;
+    box-shadow: 0px 6px 50px #ccc;
+}
+.Facebook
+ {
+    background-color: lightgrey;
+    width: 150px;
+    height: 50%;
+    border: 10px solid lightgrey;
+    padding: 50px;
+    margin-top: -20%;
+    margin-right: 10%;
+    border-radius: 10%;
+    float: right;
+
+
+    -moz-box-shadow: 0px 6px 5px #ccc;
+    -webkit-box-shadow: 0px 6px 5px #ccc;
+    box-shadow: 0px 6px 50px #ccc;
+}
+
+.head
+{
+    font-size:30px;
+    text-align: center;
+    font-weight: bold;
+    margin-top:0px;
+    color:orangered;
+}
+.Box
+{
+    width:100%;
+    height:500px;
+    background-color:black;
+}
+
+.divImg
+{
+    margin-top: -10%;
+}
+.textalign
+{
+    text-align: center;
+}
+
+.bar1
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:50%;
+    color:white;
+    text-align: center;  
+}
+
+.bar2
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:70%;
+    color:white;   
+    text-align: center;  
+}
+.bar3
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:50%;
+    color:white; 
+    text-align: center;  
+}
+.bar4
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:40%;
+    color:white; 
+    text-align: center;  
+}
+.bar5
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:60%;
+    color:white; 
+    text-align: center;  
+}
+.bar6
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:70%;
+    color:white; 
+    text-align: center;  
+}
+.bar7
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:60%;
+    color:white; 
+    text-align: center;  
+}
+.bar8
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:40%;
+    color:white; 
+    text-align: center;  
+}
+.bar9
+{
+    background-color: green;
+    margin: 0;
+    padding: 0;
+    width:40%;
+    color:white; 
+    text-align: center;  
+}
+
+
+.boxalign
+{
+    margin-left: 33%;
 }
